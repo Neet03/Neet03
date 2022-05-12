@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developer 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me through email :neetchahal47@gmail.com 
 
 <!---
 Neet03/Neet03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
